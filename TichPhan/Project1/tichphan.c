@@ -1,4 +1,6 @@
 #pragma once
+#include "tichphan.h"
+
 double tinhTichPhan(double a, double b)
 {
 	 double tichphan = 0;
